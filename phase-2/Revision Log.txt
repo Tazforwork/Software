@@ -1,0 +1,6 @@
+Revision Log
+1. แก้ไข notation ของ use case diagram
+2. แก้ไข non-functional requirement
+3. แก้ไข actor (พนักงานสนับสนุน) เป็น chatbot 
+4. แก้ไขคำที่ใช้ในการเขียน context diagram ให้เป็นคำนามมากขึ้น และเพิ่ม entity ให้สอดคล้องกับ use case
+5. เพิ่ม bank entity ใน context diagram
