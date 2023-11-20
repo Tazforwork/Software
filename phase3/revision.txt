@@ -1,0 +1,3 @@
+1.แก้ไข functional decomposition
+2.แก้ไข notation ใน data flow ของ dfd level 1
+3.แก้ไข notation ของเส้น success ใน dfd level 2
